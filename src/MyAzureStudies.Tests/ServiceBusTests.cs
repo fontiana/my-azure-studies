@@ -1,7 +1,7 @@
 using System;
+using MyAzureStudies.Library.ServiceBus;
 using Xunit;
 using Xunit.Abstractions;
-using MyAzureStudies.ServiceBus;
 
 namespace MyAzureStudies.Tests
 {

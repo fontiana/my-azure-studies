@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAzureStudies.Tests", "MyAzureStudies.Tests\MyAzureStudies.Tests.csproj", "{EA31F63E-BD7A-4CFA-B608-6241E40D5B2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAzureStudies", "MyAzureStudies\MyAzureStudies.csproj", "{C8207783-F0DC-4341-97FB-EFE18AC345F5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAzureStudies.Library", "MyAzureStudies\MyAzureStudies.Library.csproj", "{C8207783-F0DC-4341-97FB-EFE18AC345F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

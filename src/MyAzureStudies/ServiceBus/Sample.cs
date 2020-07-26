@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.Azure.ServiceBus;
 using Xunit.Abstractions;
 
-namespace MyAzureStudies.ServiceBus
+namespace MyAzureStudies.Library.ServiceBus
 {
     /// <summary>
     /// This samples was taken from
